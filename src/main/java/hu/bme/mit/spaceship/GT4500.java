@@ -1,6 +1,7 @@
 package hu.bme.mit.spaceship;
 //Added comment A
 
+//Added comment B
 /**
 * A simple spaceship with two proton torpedo stores and four lasers
 */
