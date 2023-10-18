@@ -1,5 +1,5 @@
 # SE Spaceship
-https://img.shields.io/badge/Code_coverage-95%25-bright_green
+![Static Badge](https://img.shields.io/badge/Code_coverage-95%25-bright_green)
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
